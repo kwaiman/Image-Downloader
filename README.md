@@ -1,2 +1,2 @@
 # Image-Downloader
-A Script to automatically downloads images on a webpage
+A script to automatically downloads images on a webpage
